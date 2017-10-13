@@ -6,7 +6,8 @@ O Projeto
 -------------
 No projeto é implementado um sistema semelhante ao  Spotify, onde, o usuário deve-se autenticar para ter acesso a ele, pode pesquisar por músicas, fazer upgrade de sua conta além de funções diferenciadas para cada tipo de usuário como: Menus, locais onde serão buscados as músicas, etc.
 
-<i class="icon-asterisk"></i> **As funcionalidades da aplicação resumem-se apenas a prints em tela!**
+----------
+**Observação: As funcionalidades da aplicação resumem-se apenas a prints em tela!**
 
 ----------
 Patterns utilizados
