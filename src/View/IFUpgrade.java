@@ -35,7 +35,7 @@ public class IFUpgrade extends DadosSessaoUsuario{
         do {            
             System.out.println("Opção desejada: ");
             opcaoSelecionada = opcoesMenu.next();            
-        } while (!(opcaoSelecionada.equals("1") || opcaoSelecionada.equals("2") ));
+        } while (!(opcaoSelecionada.equals("1") || opcaoSelecionada.equals("2") || opcaoSelecionada.equals("3") || opcaoSelecionada.equals("4")));
         
         
         
