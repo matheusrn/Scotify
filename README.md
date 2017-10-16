@@ -29,7 +29,7 @@ O Strategy é usado em três situações:
 - Juntamente com o padrão Observer, que também será citado a frente, irá decidir onde será efetuada a busca das músicas que serão passadas pelos usuários, onde o local será mudado de acordo com o nível do usuário.
 
 **Porque usar o Strategy?**
-Com o estrategy é possível alterar comportamentos da aplicação sem que seja necessário compila-lo novamente.  Por exemplo,  é possível que o usuário se torne premium e ao se tornar premium ele terá opções diferente de um usuário normal, sem o Strategy teria que ser feita toda uma "gambiarra" ou recompilar o código para essas opções ficassem disponíveis.
+Com o estrategy é possível alterar comportamentos da aplicação sem que seja necessário compila-lo novamente.  Por exemplo,  é possível que o usuário se torne premium e ao se tornar premium ele terá opções diferente de um usuário normal, sem o Strategy teria que ser feita toda uma "gambiarra" ou recompilar o código para que essas opções ficassem disponíveis.
 
 ----------
 
